@@ -63,19 +63,5 @@
     "tags": [
       "official"
     ]
-  },
-  {
-    "id": 6,
-    "name": "API Upload Test",
-    "featured": 0,
-    "date": "2026-11-22",
-    "downloads": 1,
-    "version": "13000",
-    "author": "Turing",
-    "image": "",
-    "tags": [
-      "community"
-    ],
-    "reports": 0
   }
 ]
