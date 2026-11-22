@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sitzising/WOBBLE-PARTY/refs/heads/main/world_database/
+https://wobble-party-worlds.military-bedbug.workers.dev/
